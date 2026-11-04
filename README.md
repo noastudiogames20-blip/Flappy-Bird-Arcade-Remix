@@ -1,5 +1,5 @@
 # Flappy-Bird-Arcade-Remix
-New version of Flappy Bird, recreate with Claude and ChatGPT
+New version of Flappy Bird, recreate with Claude (in Perplexity) and ChatGPT
 
 You can play on a web browser via this link: http://verdant-gaufre-1ec0f1.netlify.app
 
